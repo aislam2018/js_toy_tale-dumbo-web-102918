@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 28
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
+      "name": "Buzz Lightyearrrr",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
@@ -47,6 +47,54 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "8 pairs of socks",
+      "image": "https://cdn.shopify.com/s/files/1/1631/8771/products/wnc871-ggr_gumby_gumby_green_1_large.jpg?v=1494450059",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": " ",
+      "image": " ",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Bobby",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j7sUcAvwL.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "8 pairs of socks",
+      "image": "https://cdn.shopify.com/s/files/1/1631/8771/products/wnc871-ggr_gumby_gumby_green_1_large.jpg?v=1494450059",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "89 pairs of socks",
+      "image": "https://cdn.shopify.com/s/files/1/1631/8771/products/wnc871-ggr_gumby_gumby_green_1_large.jpg?v=1494450059",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "8 pairs of socks",
+      "image": "https://cdn.shopify.com/s/files/1/1631/8771/products/wnc871-ggr_gumby_gumby_green_1_large.jpg?v=1494450059",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "doggy",
+      "image": "https://dimg.dillards.com/is/image/DillardsZoom/nav2/starting-out-baby-10--plush-fawn/05478242_zi_brown.jpg",
+      "likes": 16,
+      "id": 15
+    },
+    {
+      "name": "29 pairs of socks",
+      "image": "https://www.sockittome.com/images/thumbnails/760/760/detailed/6/MEF0209.jpg",
+      "likes": 19,
+      "id": 16
     }
   ]
 }
